@@ -1,0 +1,1 @@
+This is sub2 folder and creating file for sub2 folder.
